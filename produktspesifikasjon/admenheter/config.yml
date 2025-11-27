@@ -3,4 +3,4 @@ ogc_feature_api: https://kos-pygeoapi.atkv3-dev.kartverket.cloud/collections
 output_directory: produktspesifikasjon
 product_slug: admenheter
 updated: 2025-01-01
-xmi_url: https://sosi.geonorge.no/svn/SOSI/SOSI Del 3/Statens kartverk/AdministrativeEnheter_FylkerOgKommuner-20240101.xml
+xmi_url: https://sosi.geonorge.no/svn/SOSI/SOSI Del 3/Statens kartverk/NasjonaltGrunnkartForArealanalyse-20260101.xml
